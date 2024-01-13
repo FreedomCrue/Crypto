@@ -78,7 +78,7 @@ body{
 }
 
 .coin.rising{
-    background: linear-gradient(200deg, #202022, #4eb64510);
+    background: linear-gradient(180deg, #202022, #1cf00943);
 }
 
 .coin.rising .coin-price .price{
@@ -86,7 +86,7 @@ body{
 }
 
 .coin.falling{
-    background: linear-gradient(200deg, #202022, #aa444425);
+    background: linear-gradient(200deg, #080809, #ba1a1ae4);
 }
 
 .coin.falling .coin-price .price{
